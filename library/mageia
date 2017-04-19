@@ -1,7 +1,12 @@
-Maintainers: Juan Luis Baptiste <juancho@mageia.org> (@juanluisbaptiste)
-GitRepo: https://github.com/juanluisbaptiste/docker-brew-mageia.git
+Maintainers: Bruno Cornec (bcornec@mageia.org)
+# Fedora ref: GitRepo: https://github.com/fedora-cloud/docker-brew-fedora.git
+GitRepo: https://github.com/bcornec/mageia-docker.git
+Constraints: !aufs
 
-Tags: 5,5.1, latest
-GitCommit: c01771b53f87dd8d130879122d13025a9d957000
-GitFetch: refs/heads/dist
-Directory: 5
+Tags: latest, 5
+GitFetch: refs/heads/5
+GitCommit: c2da839cd236ad54ea4319e68895318a58fda048
+
+Tags: cauldron
+GitFetch: refs/heads/cauldron
+GitCommit: a7ae28fbed5ebf675d6a352f74d86149228e47f1
