@@ -5,7 +5,7 @@ Constraints: !aufs
 
 Tags: latest, 5
 GitFetch: refs/heads/5
-GitCommit: f7c3ff5ff5a1c039fb92dbe5586fabb8af79c8af
+GitCommit: 324d4bfda81008c697d58e1fe6079241a82033fa
 
 Tags: cauldron
 GitFetch: refs/heads/cauldron
